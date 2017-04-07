@@ -1,0 +1,3 @@
+If you would like to modify the bot, go here http://www.devdungeon.com/content/ai-chat-bot-python-aiml
+You have to modify basic-chat.aiml
+When you do this make sure you delete the bot_brain.brn file
